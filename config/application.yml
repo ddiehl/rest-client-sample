@@ -1,7 +1,8 @@
 com:
   sparta:
     sample:
-      api-key: FczQW9nov5uTnOW3xbHnX7qd0H74TkozxYqt8ORDTmwhatkIE16B9wP9eWd8hCHO
+      #Generate your key at: https://www.zipcodeapi.com/
+      api-key: <YOUR KEY HERE> 
       
       two-way-ssl:
         enabled: true
